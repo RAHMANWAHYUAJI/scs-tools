@@ -1,0 +1,83 @@
+Header {
+    FormatVersion: 1
+    Source: "Blender 2.93.18 (hash: cb886aba06d5), SCS Blender Tools: 2.2.a3b485be"
+    Type: "Configuration"
+    Note: "User settings of SCS Blender Tools"
+    ConfigStoragePlace: "ConfigFile"
+    DumpLevel: "2"
+}
+Paths {
+    ProjectPath: "H:\PROJECT\Miku Samsudin\ACC\"
+    ShaderPresetsFilePath: "H:\BASE ETS2\ALAT\modif himopan\shader_presets_all.txt"
+    ShaderPresetsUseCustom: 1
+    TriggerActionsRelFilePath: "H:\BASE ETS2\DEF 1.54\def\world\trigger_action.sii"
+    TriggerActionsUseInfixed: 1
+    SignRelFilePath: "H:\BASE ETS2\DEF 1.54\def/world/sign.sii"
+    SignUseInfixed: 1
+    TSemProfileRelFilePath: "H:\BASE ETS2\DEF 1.54\def/world/semaphore_profile.sii"
+    TSemProfileUseInfixed: 1
+    TrafficRulesRelFilePath: "H:\BASE ETS2\DEF 1.54\def/world/traffic_rules.sii"
+    TrafficRulesUseInfixed: 1
+    HookupRelDirPath: "H:\BASE ETS2\BASE 1.53\unit\hookup\"
+    MatSubsRelFilePath: "H:\BASE ETS2\ALAT\modif himopan\material.db"
+    SunProfilesFilePath: "H:\BASE ETS2\DEF 1.48\def\climate\default\nice.sii"
+    ConvertersPath: "H:\BASE ETS2\ALAT\conversion_tools_2_12\"
+    UseAlternativeBases: 1
+}
+Import {
+    ImportScale: 1.0
+    PreservePathForExport: 0
+    ImportPimFile: 1
+    UseWelding: 1
+    WeldingPrecision: 4
+    UseNormals: 1
+    ImportPitFile: 1
+    LoadTextures: 1
+    ImportPicFile: 1
+    ImportPipFile: 1
+    ImportPisFile: 1
+    ConnectedBones: 0
+    BoneImportScale: 0.10000000149011612
+    ImportPiaFile: 1
+    IncludeSubdirsForPia: 1
+}
+Export {
+    ExportScale: 1.0
+    ApplyModifiers: 1
+    ExcludeEdgesplit: 1
+    IncludeEdgesplit: 1
+    ActiveUVOnly: 0
+    ExportVertexGroups: 1
+    ExportVertexColor: 1
+    ExportVertexColorType: "rgbda"
+    ExportVertexColorType7: "rgbda"
+    ExportPimFile: 1
+    OutputType: "5"
+    ExportPitFile: 1
+    ExportPicFile: 1
+    ExportPipFile: 1
+    SignExport: 0
+}
+GlobalDisplay {
+    DisplayLocators: 1
+    DisplayPreviewModels: 1
+    LocatorSize: 0.10000000149011612
+    LocatorEmptySize: 0.05000000074505806
+    DisplayConnections: 1
+    OptimizedConnsDrawing: 0
+    CurveSegments: 16
+    DisplayTextInfo: "none"
+    IconTheme: "white"
+}
+GlobalColors {
+    PrefabLocatorsWire: (0.5, 0.5, 0.5)
+    ModelLocatorsWire: (0.07999999821186066, 0.11999999731779099, 0.25)
+    ColliderLocatorsWire: (0.5, 0.30000007152557373, 0.10000002384185791)
+    ColliderLocatorsFace: (0.15000000596046448, 0.05000000074505806, 0.05000000074505806)
+    NavigationCurveBase: (0.0, 0.11670000106096268, 0.13289999961853027)
+    MapLineBase: (0.0, 0.22339999675750732, 0.0982000008225441)
+    TriggerLineBase: (0.17059999704360962, 0.0, 0.059300001710653305)
+    InfoText: (1.0, 1.0, 1.0)
+    BasePaint: (1.0, 1.0, 1.0)
+}
+
